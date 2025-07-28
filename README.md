@@ -15,7 +15,7 @@
 
 ## 📸 Screenshots
 
-> 📷 Add your gameplay screenshots or demo GIFs here  
+> 📷 Add your gameplay screenshots or demo GIFs her
 > Drag and drop images into this README folder or embed links to hosted images.
 
 ---
